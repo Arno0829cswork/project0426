@@ -2,4 +2,11 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+}
+
+.title {
+  background-color: #888;
+  color: antiquewhite;
+  font-size: larger;
+  font-weight: bolder;
 }/*# sourceMappingURL=style.css.map */
